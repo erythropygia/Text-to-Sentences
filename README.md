@@ -1,1 +1,1 @@
-# writing-sentence-by-sentence-for-txt
+# Text to sentences
